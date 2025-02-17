@@ -1,7 +1,7 @@
 [![X (formerly Twitter) Follow](https://img.shields.io/badge/Follow%20%40meursyphus-000000?style=flat&logo=x&logoColor=white)](https://x.com/meursyphus)
 
 ### Self-introduction
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Moon-DaeSeung&show_icons=true&theme=dracula&hide_border=true" width="400px">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=meursyphus&show_icons=true&theme=dracula&hide_border=true&type=org" width="400px">
 
 - 🎨 I'm a passionate Svelte enthusiast and open-source maintainer
 - 🤖 Deeply interested in LLM applications, currently writing most of my code with AI assistance
